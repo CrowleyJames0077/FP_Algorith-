@@ -1,0 +1,9 @@
+These are instructions on how to run the program:
+1.	Load FP.sln using Visual Studio
+2.	Ensure that the dataset is present in the zipped file, if not download from the reference provided
+3.	Make sure the path to the dataset is valid (it should automatically be just in case)
+4.	In the visual studio editor press Start
+5.	Enter set number of transactions (warning transaction number above 100 will take up significant memory usage)
+6.	Enter set Minimum support
+7.	Wait for program to finish
+The dataset used is here AlexMiles. (2019). Grocery Products Purchase Data. Kaggle.com. https://www.kaggle.com/datasets/alexmiles/grocery-products-purchase-data. It should not require downloading as it is present in the zipped files. 
